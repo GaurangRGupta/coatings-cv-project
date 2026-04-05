@@ -1,0 +1,38 @@
+project:
+  name: coatings-cv-project
+  task: image_classification
+  seed: 42
+
+data:
+  root_dir: data/raw
+  dataset_name: defect_collection   # placeholder – change when you download
+  image_size: 224
+  num_workers: 4
+  batch_size: 32
+  val_split: 0.2
+  test_split: 0.1
+
+model:
+  backbone: tf_efficientnetv2_s.in21k_ft_in1k
+  pretrained: true
+  num_classes: null   # will be filled after data inspection
+  dropout: 0.2
+
+train:
+  epochs: 25
+  optimizer: adamw
+  lr: 0.0003
+  weight_decay: 0.0001
+  label_smoothing: 0.05
+  mixed_precision: true
+
+augmentation:
+  horizontal_flip: 0.5
+  vertical_flip: 0.1
+  color_jitter: 0.2
+  random_resized_crop: true
+  normalize: imagenet
+
+logging:
+  mlflow_experiment: coatings-cv-project
+  save_dir: models/checkpoints

@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environments
+.env
+.venv/
+venv/
+conda-meta/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & artifacts (keep raw out of Git)
+data/raw/
+data/interim/
+data/processed/
+models/
+mlruns/
+wandb/
+reports/figures/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+kaggle.json
