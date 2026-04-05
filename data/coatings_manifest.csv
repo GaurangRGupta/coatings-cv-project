@@ -1,0 +1,46 @@
+label,group,size_kb,path
+corrosion,Machinery_Defect_Images,23.18,data/raw/defect-collection/Defect Identification System/Defect Identification System/Machinery_Defect_Images/Corrosion/corrosion_defect_01.jpg
+corrosion,Machinery_Defect_Images,14.19,data/raw/defect-collection/Defect Identification System/Defect Identification System/Machinery_Defect_Images/Corrosion/corrosion_defect_02.jpg
+corrosion,Machinery_Defect_Images,25.76,data/raw/defect-collection/Defect Identification System/Defect Identification System/Machinery_Defect_Images/Corrosion/corrosion_defect_03.jpg
+corrosion,Machinery_Defect_Images,13.61,data/raw/defect-collection/Defect Identification System/Defect Identification System/Machinery_Defect_Images/Corrosion/corrosion_defect_05.jpg
+corrosion,Machinery_Defect_Images,12.15,data/raw/defect-collection/Defect Identification System/Defect Identification System/Machinery_Defect_Images/Corrosion/corrosion_defect_06.jpg
+corrosion,Machinery_Defect_Images,9.63,data/raw/defect-collection/Defect Identification System/Defect Identification System/Machinery_Defect_Images/Corrosion/corrosion_defect_07.jpg
+corrosion,Machinery_Defect_Images,8.87,data/raw/defect-collection/Defect Identification System/Defect Identification System/Machinery_Defect_Images/Corrosion/corrosion_defect_08.jpg
+corrosion,Machinery_Defect_Images,16.85,data/raw/defect-collection/Defect Identification System/Defect Identification System/Machinery_Defect_Images/Corrosion/corrosion_defect_4.jpg
+adhesion_loss,Paint_Defect_Images,8.19,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Adhesion Loss/Adheshion_04.jpg
+adhesion_loss,Paint_Defect_Images,11.62,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Adhesion Loss/Adhesionloss_01.jpg
+adhesion_loss,Paint_Defect_Images,17.21,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Adhesion Loss/Adhesionloss_02.jpg
+adhesion_loss,Paint_Defect_Images,20.91,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Adhesion Loss/Adhesionloss_03.jpg
+adhesion_loss,Paint_Defect_Images,47.75,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Adhesion Loss/Adhesionloss_05.jpg
+adhesion_loss,Paint_Defect_Images,6.52,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Adhesion Loss/Adhesionloss_06.jpg
+blistering,Paint_Defect_Images,15.25,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Blistering/Blistering_01.jpg
+blistering,Paint_Defect_Images,12.89,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Blistering/Blistering_02.jpg
+blistering,Paint_Defect_Images,12.63,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Blistering/Blistering_03.jpg
+blistering,Paint_Defect_Images,11.18,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Blistering/Blistering_04.jpg
+blistering,Paint_Defect_Images,21.88,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Blistering/Blistering_05.jpg
+blistering,Paint_Defect_Images,6.85,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Blistering/Blistering_06.jpg
+blistering,Paint_Defect_Images,26.11,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Blistering/Blistering_07.jpg
+chalking,Paint_Defect_Images,9.96,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Chalking/Chalking_01.jpg
+chalking,Paint_Defect_Images,12.59,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Chalking/Chalking_02.jpg
+chalking,Paint_Defect_Images,7.03,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Chalking/Chalking_03.jpg
+chalking,Paint_Defect_Images,12.36,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Chalking/Chalking_04.jpg
+chalking,Paint_Defect_Images,32.33,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Chalking/Chalking_05.jpg
+chalking,Paint_Defect_Images,4.26,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Chalking/Chalking_06.jpg
+crack_paint,Paint_Defect_Images,16.81,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Crack/Crack_01.jpg
+crack_paint,Paint_Defect_Images,16.54,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Crack/Crack_02.jpg
+crack_paint,Paint_Defect_Images,32.61,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Crack/Crack_03.jpg
+crack_paint,Paint_Defect_Images,17.88,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Crack/Crack_04.jpg
+crack_paint,Paint_Defect_Images,6.38,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Crack/Crack_05.jpg
+crack_paint,Paint_Defect_Images,9.29,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Crack/Crack_06.jpg
+fading,Paint_Defect_Images,16.75,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Fading/Fading_01.jpg
+fading,Paint_Defect_Images,21.05,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Fading/Fading_02.jpg
+fading,Paint_Defect_Images,5.89,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Fading/Fading_03.jpg
+fading,Paint_Defect_Images,5.85,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Fading/Fading_04.jpg
+fading,Paint_Defect_Images,11.98,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Fading/Fading_05.jpg
+fading,Paint_Defect_Images,15.63,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Fading/Fading_06.jpg
+sagging,Paint_Defect_Images,2.24,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Sagging/Sagging_01.jpg
+sagging,Paint_Defect_Images,3.38,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Sagging/Sagging_02.jpg
+sagging,Paint_Defect_Images,3.22,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Sagging/Sagging_03.jpg
+sagging,Paint_Defect_Images,7.05,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Sagging/Sagging_04.jpg
+sagging,Paint_Defect_Images,2.49,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Sagging/Sagging_05.jpg
+sagging,Paint_Defect_Images,3.05,data/raw/defect-collection/Defect Identification System/Defect Identification System/Paint_Defect_Images/Sagging/Sagging_06.jpg
