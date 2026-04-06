@@ -43,3 +43,7 @@ Thumbs.db
 
 # Secrets
 kaggle.json
+
+# YOLOv8n
+data/corrosion_yolo/
+notebooks/runs/
